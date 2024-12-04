@@ -37,5 +37,5 @@ Feel free to connect if you share similar interests or want to collaborate on ex
 
 ## Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mzmou)
+
 
