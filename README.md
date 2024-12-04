@@ -1,5 +1,5 @@
 
-
+# About Me  
 Hi there! 👋 I'm a **third-year computer engineering student** with a deep passion for **machine learning, artificial intelligence, natural language processing (NLP), formal methods, and algorithms**. My ultimate goal is to become a **researcher in the field of NLP**, contributing to advancing technologies like large language models (LLMs) and innovative AI solutions.  
 
 ## Interests  
@@ -36,9 +36,4 @@ My dream is to explore **innovative research in NLP**, combining my strengths in
 Feel free to connect if you share similar interests or want to collaborate on exciting projects! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/marziyeh-mousavi-58728b254/).
 """
 
-# Writing the updated content to a new README.md file
-file_path = "/mnt/data/README_with_skills.md"
-with open(file_path, "w") as file:
-    file.write(updated_readme_content)
 
-file_path
