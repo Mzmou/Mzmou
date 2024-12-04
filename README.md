@@ -34,6 +34,8 @@ My dream is to explore **innovative research in NLP**, combining my strengths in
 
 ## Contact  
 Feel free to connect if you share similar interests or want to collaborate on exciting projects! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/marziyeh-mousavi-58728b254/).
-"""
+
+
+![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mzmou)
 
 
