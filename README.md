@@ -1,7 +1,4 @@
-# Creating the README file with the updated content reflecting experience in Python, C, C++, and Verilog
 
-updated_readme_content = """
-# About Me  
 
 Hi there! 👋 I'm a **third-year computer engineering student** with a deep passion for **machine learning, artificial intelligence, natural language processing (NLP), formal methods, and algorithms**. My ultimate goal is to become a **researcher in the field of NLP**, contributing to advancing technologies like large language models (LLMs) and innovative AI solutions.  
 
