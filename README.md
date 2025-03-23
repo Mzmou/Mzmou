@@ -22,15 +22,10 @@ Hi there! 👋 I'm a **third-year computer engineering student** with a deep pas
   - **C/C++**: Proficient in systems programming, performance optimization, and embedded systems.  
   - **Verilog**: Familiar with hardware description languages for digital circuit design.  
 
-### AI Expertise  
-- **Reinforcement Learning**: Proficient in designing systems that learn from actions and rewards.  
-- **AI & Statistics Libraries**: Extensive experience with the most widely used libraries in the AI field, such as TensorFlow, PyTorch, Scikit-learn, NumPy, and others.  
 
 ### Project Experience  
 - Led and contributed to several **academic and independent projects** spanning **machine learning**, **signal processing**, **digital systems**, and **hardware design**.  
 
-## Aspirations  
-My dream is to explore **innovative research in NLP**, combining my strengths in machine learning and formal methods to build smarter, ethical, and robust AI systems.  
 
 ## Contact  
 Feel free to connect if you share similar interests or want to collaborate on exciting projects! You can reach out to me on [LinkedIn](https://www.linkedin.com/in/marziyeh-mousavi-58728b254/).
