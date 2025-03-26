@@ -1,12 +1,12 @@
 
 # About Me  
-Hi there! 👋 I'm a third-year computer engineering student with a strong passion for formal methods, automated reasoning, compiler design, and programming languages. My ultimate goal is to become a researcher in the field of formal verification and programming language theory, contributing to reliable and efficient software systems.
+Hi there! 👋 I'm a third-year computer engineering student with a  deep passion for formal methods, automated reasoning, compiler design, and programming languages. I want  to become a researcher in the field of formal verification and programming language theory, contributing to reliable and efficient software systems.
  
 
 ## Interests  
-- **Formal Methods & Automated Reasoning**: Enthusiastic about ensuring the correctness of complex systems through mathematical reasoning and formal verification techniques.
-
-- **Programming Languages & Compilers**: Fascinated by how languages shape the way we solve problems and passionate about building and analyzing compilers.
+- **Formal Method**: Enthusiastic about ensuring the correctness of complex systems with focus on automated reasoning .
+  
+- **Programming Languages and Compilers**: Fascinated by how languages shape the way we solve problems and passionate about building and analyzing compilers.
 
 - **Algorithms & Theoretical CS**: Drawn to the elegance of algorithms and their role in solving computational challenges.  
 
@@ -16,8 +16,8 @@ Hi there! 👋 I'm a third-year computer engineering student with a strong passi
 
 ## Experience & Skills  
 ### Technical Knowledge  
-- **Formal Verification**: Hands-on experience with model checking, theorem proving, and SAT/SMT solvers.
-- **Electrical Circuits & Digital Systems**: Knowledgeable in designing and analyzing electrical circuits and digital systems.  
+- **Formal Methods**: Hands-on experience with model checking, theorem proving, and SAT/SMT solvers.
+- **Digital Systems**: Knowledgeable in designing and analyzing digital systems.  
 - **Electrical Engineering Basics**: Familiar with **signal processing, systems theory**, and **engineering mathematics**.  
 
 ### Programming Expertise  
