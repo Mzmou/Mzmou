@@ -29,7 +29,7 @@ Hi there! 👋 I'm a third-year computer engineering student with a  deep passio
 
 
 ### Project Experience  
-- practice automated reasoning using Z3 for formal verification and logical inference.
+- practice automated reasoning using Z3 for formal methods and logical inference.
    
 
 
